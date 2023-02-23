@@ -68,3 +68,34 @@
     padding: 20px 10px;
     box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.233);
 }
+.headerpage3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.page3flexuser {
+    display: flex;
+    gap: 20px;
+}
+.imagesphoto img {
+    width: 24%;
+    max-height: 250px;
+}
+.imagesphoto {
+    display: flex;
+    gap: 20px;
+}
+.borderpage3 {
+    border: 1px solid rgba(0, 0, 0, 0.342);
+    padding: 20px 30px;
+    box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.233)
+}
+.imagesphoto1 img {
+    width: 100%;
+}
+.pidsvitka {
+    background-color: blue;
+    color: whitesmoke;
+    padding: 5px 30px 5px 5px;
+    width: max-content;
+}
