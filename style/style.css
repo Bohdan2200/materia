@@ -1,0 +1,19 @@
+.cont1 {
+    max-width: 400px;
+}
+.brand-logo {
+    margin-left: 30px;
+}
+.btnwidth {
+    width: 100%;
+}
+.endtext {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+}
+[type="checkbox"]:checked+span:not(.lever):before {
+    border-right: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
