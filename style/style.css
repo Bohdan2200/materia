@@ -93,9 +93,36 @@
 .imagesphoto1 img {
     width: 100%;
 }
-.pidsvitka {
-    background-color: blue;
+ul li {
+    padding: 5px 5px;
+}
+ul li:hover {
+    background-color: lightblue;
     color: whitesmoke;
-    padding: 5px 30px 5px 5px;
-    width: max-content;
+    cursor: pointer;
+}
+.btnava {
+    width: 100%;
+}
+.imagewidth11 img {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+.boldtext {
+    font-weight: 400;
+    font-size: 22px;
+}
+.textdateapr1 {
+    font-size: 18px;
+    font-weight: 500;
+}
+.textdateapr {
+    font-size: 12px;
+    color: gray;
+}
+.flexnuz1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
