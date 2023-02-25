@@ -197,7 +197,7 @@ ul li:hover {
 .flexccols{
     display: flex;
     flex-direction: column;
-    height: 1200px;
+    height: 900px;
 }
 .kzy432 {
     background-color: blue;
